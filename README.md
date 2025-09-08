@@ -1,3 +1,6 @@
+
+> 🚧 **In Progress!** This tutorial is a work in progress. More chapters and content will be added soon. Stay tuned for updates!
+
 # Comprehensive Bash Tutorial: Zero to Hero
 
 Welcome to the most comprehensive bash scripting tutorial! This guide will take you from absolute beginner to advanced bash scripting mastery with practical examples, real-world projects, and hands-on exercises.
