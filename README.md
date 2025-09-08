@@ -70,15 +70,19 @@ By the end of this tutorial, you'll be able to:
    - macOS 
    - Windows (WSL2, Git Bash, or Cygwin)
 
+
 3. **Installation**:
    ```bash
-   git clone <your-repo-url>
-   cd bash_tutorial
-   chmod +x setup.sh
-   ./setup.sh
+   git clone https://github.com/MuhammadShafeeque/bash-zero-to-hero.git
+   cd bash-zero-to-hero
+   # No installation required! All scripts are ready to run.
+   # To test a script, for example:
+   cd 01-getting-started
+   bash hello_world.sh
    ```
 
 4. **Start Learning**: Begin with [Getting Started](./01-getting-started/README.md)
+   - Explore each chapter's README and run the example scripts directly in your terminal.
 
 ## 🎓 Learning Path Recommendations
 
